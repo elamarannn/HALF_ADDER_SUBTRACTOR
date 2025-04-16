@@ -54,7 +54,7 @@ Figure -02 HALF Subtractor
 **Program:**
 Developed by:Elamaran S E
 
-RegisterNumber:212222230036*/
+RegisterNumber:212222230036
 ```
          module de(a,b,sum_a,carry_a,diff_s,borr_s);
          input a,b;
